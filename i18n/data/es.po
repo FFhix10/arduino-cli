@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Henrique Diniz <henrique.diniz@toptal.com>, 2021
+# Juan Felipe Giraldo <juanfegiraldo97@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Henrique Diniz <henrique.diniz@toptal.com>, 2021\n"
-"Language-Team: Portuguese (Brazil) (https://www.transifex.com/arduino-1/teams/108174/pt_BR/)\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: Juan Felipe Giraldo <juanfegiraldo97@gmail.com>, 2021\n"
+"Language-Team: Spanish (https://www.transifex.com/arduino-1/teams/108174/es/)\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: version/version.go:53
 msgid "%[1]s %[2]s Version: %[3]s Commit: %[4]s Date: %[5]s"
@@ -2164,7 +2164,7 @@ msgstr ""
 
 #: cli/usage.go:33
 msgid "Use %s for more information about a command."
-msgstr "Use %s para mais informações sobre um comando."
+msgstr ""
 
 #: cli/burnbootloader/burnbootloader.go:57
 msgid "Use the specified programmer to upload."
