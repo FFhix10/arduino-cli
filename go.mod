@@ -42,9 +42,8 @@ require (
 	go.bug.st/relaxed-semver v0.0.0-20190922224835-391e10178d18
 	go.bug.st/serial v1.3.2
 	go.bug.st/serial.v1 v0.0.0-20180827123349-5f7892a7bb45 // indirect
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20210505024714-0287a6fb4125 // indirect
-	golang.org/x/text v0.3.6
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/text v0.3.8
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
 	google.golang.org/grpc v1.38.0
 	google.golang.org/protobuf v1.26.0
