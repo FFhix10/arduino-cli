@@ -21,7 +21,7 @@ pytest_httpserver = "^0.3.5"
 GitPython = "^3.1.12"
 
 [tool.poetry.dev-dependencies]
-mkdocs = "^1.2.1"
+mkdocs = "^1.2.3"
 mkdocs-material = "^7.1.8"
 mdx-truly-sane-lists = "^1.2"
 GitPython = "^3.1.20"
